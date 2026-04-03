@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.box{
+	width: 300px;
+	background-color: lightblue;
+	border: 15px blue solid;
+	padding: 50px;
+	margin: 20px;
+}
+.box p{
+	border: 1px dotted solid;
+}
